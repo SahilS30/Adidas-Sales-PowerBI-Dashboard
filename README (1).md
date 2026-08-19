@@ -130,21 +130,6 @@ The dashboard can support business decisions related to:
 - Profitability analysis
 - Identification of growth opportunities
 
-## 📷 Dashboard Preview
-
-> Add screenshots of the actual Power BI dashboard to the `Screenshots` folder and update the filenames below.
-
-### Dashboard Overview
-
-![Adidas Sales Dashboard](Screenshots/dashboard-overview.png)
-
-### Sales Analysis
-
-![Sales Analysis](Screenshots/sales-analysis.png)
-
-### Regional / Product Analysis
-
-![Regional Analysis](Screenshots/regional-analysis.png)
 
 ## 📁 Repository Structure
 
@@ -159,7 +144,6 @@ Adidas-Sales-PowerBI-Dashboard/
 │
 └── Screenshots/
     ├── dashboard-overview.png
-    ├── sales-analysis.png
     └── regional-analysis.png
 ```
 
