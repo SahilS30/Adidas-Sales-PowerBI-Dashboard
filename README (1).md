@@ -175,7 +175,7 @@ This project demonstrates practical skills in:
 
 **Sahil Yadav**
 
-**Business Analytics | Business Analysis | Data Analytics**
+**Business Analytics | Business Analysis | Data Analytics | Project Management**
 
 ---
 
